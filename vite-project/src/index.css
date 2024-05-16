@@ -43,7 +43,7 @@ How to style React components with css External, modules, inline*/
 /*------------------------------------------------------------------------------------------*/
 
 /*Fourth*/
-.student {
+/* .student {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 200%;
     padding: 12px;
@@ -54,4 +54,53 @@ How to style React components with css External, modules, inline*/
 
 .student p {
     margin: 0px;
+} 
+-----------------------------------------------------------------------------------------------*/
+
+/**Fifth*/
+/* .welcome-messege {
+    text-align: center;
+    font-size: 2.5rem;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 12px;
 }
+
+.login-prompt {
+    text-align: center;
+    font-size: 2.5rem;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 12px;
+} 
+---------------------------------------------------------------------------------------------------*/
+
+/*Sixth*/
+/* .list-category {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 3px solid darkgreen;
+    border-radius: 5px;
+    background-color: green;
+}
+
+.list-items li {
+    font-size: 2em;
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+}
+
+.list-items li:hover {
+    border-radius: 5px;
+    cursor: pointer;
+    color: slategrey;
+} 
+---------------------------------------------------------------------------------------------------*/
