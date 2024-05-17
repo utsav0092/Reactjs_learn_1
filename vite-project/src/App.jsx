@@ -1,4 +1,5 @@
 import React from 'react';
+// import MyComponent from './MyComponent.jsx';
 // import Profilepic from './Profilepic';
 // import Buttoncom from './Buttoncom';
 // import List from './List.jsx';
@@ -11,9 +12,10 @@ import React from 'react';
 // import Footer from './Footer.jsx'
 // import Food from './Food.jsx';
 
+
 function App() {
 
-  // const fruits = [
+  // const fruits = [.
   //   { id: 1, name: 'apple', calories: 95 },
   //   { id: 2, name: 'orange', calories: 45 },
   //   { id: 3, name: 'mango', calories: 105 },
@@ -49,6 +51,8 @@ function App() {
 
       {/* <Buttoncom/> */}
       {/* <Profilepic/> */}
+
+      {/* <MyComponent /> */}
 
       
     </>
