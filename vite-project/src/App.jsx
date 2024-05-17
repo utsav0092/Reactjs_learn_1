@@ -1,8 +1,10 @@
 import React from 'react';
+// import Profilepic from './Profilepic';
+// import Buttoncom from './Buttoncom';
 // import List from './List.jsx';
 // import UserGreeting from "./UserGreeting";
 // import Student from './fourth/Student.jsx';
-// import Button from './Button.jsx';
+// import Button from './ButtonT.jsx';
 // import ButtonT from './third.ButtonT.jsx
 // import Card from './second/Card.jsx';
 // import Header from './Header.jsx'
@@ -44,6 +46,9 @@ function App() {
       {/* {fruits.length > 0 && <List items={fruits} category="Fruits"/>}
       {vegetables.length > 0 ? <List items={vegetables} category="Vegetables"/>
         : <h1>!Oops something went wrong</h1>} */}
+
+      {/* <Buttoncom/> */}
+      {/* <Profilepic/> */}
 
       
     </>
