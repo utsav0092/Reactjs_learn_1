@@ -1,4 +1,5 @@
 import React from 'react';
+// import MyComponent2 from './MyComponent2.jsx';
 // import MyComponent from './MyComponent.jsx';
 // import Profilepic from './Profilepic';
 // import Buttoncom from './Buttoncom';
@@ -53,6 +54,8 @@ function App() {
       {/* <Profilepic/> */}
 
       {/* <MyComponent /> */}
+
+      {/* <MyComponent2 /> */}
 
       
     </>
