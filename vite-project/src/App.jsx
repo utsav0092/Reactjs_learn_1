@@ -1,4 +1,8 @@
 import React from 'react';
+// import UpdStateArray from './UpdStateArray';
+// import UpdState from './UpdState.jsx'
+// import Update from './Update.jsx';
+// import ColorPicker from './ColorPicker';
 // import MyComponent2 from './MyComponent2.jsx';
 // import MyComponent from './MyComponent.jsx';
 // import Profilepic from './Profilepic';
@@ -56,6 +60,14 @@ function App() {
       {/* <MyComponent /> */}
 
       {/* <MyComponent2 /> */}
+
+      {/* <ColorPicker/> */}
+
+      {/* <Update/> */}
+
+      {/* <UpdState/> */}
+
+      {/* <UpdStateArray/> */}
 
       
     </>
