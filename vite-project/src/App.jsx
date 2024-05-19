@@ -1,4 +1,9 @@
 import React from 'react';
+// import DigitalClock from './DigitalClock';
+// import WidthHei from './WidthHei';
+// import UseEffect from './UseEffect';
+// import ToDoApp from './ToDoApp';
+// import UpdArrObj from './UpdArrObj.jsx';
 // import UpdStateArray from './UpdStateArray';
 // import UpdState from './UpdState.jsx'
 // import Update from './Update.jsx';
@@ -69,7 +74,15 @@ function App() {
 
       {/* <UpdStateArray/> */}
 
-      
+      {/* <UpdArrObj/> */}
+
+      {/* <ToDoApp/> */}
+
+      {/* <UseEffect/> */}
+
+      {/* <WidthHei/> */}
+
+      {/* <DigitalClock/> */}
     </>
   );
 }

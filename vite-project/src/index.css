@@ -194,3 +194,129 @@ input[type='color'] {
 } 
 ----------------------------------------------------------------------------------------*/
 
+/*Sixteenth*/
+/* body {
+    background-color: hsl(0, 0%, 10%);
+}
+
+.to-do-list {
+    margin: 12px auto;
+    width: 50vw;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 4rem;
+    color: white;
+}
+
+button {
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-button {
+    margin-left: 12px;
+    background-color: yellowgreen;
+}
+
+.add-button:hover {
+    background-color: darkgreen;
+}
+
+.delete-button {
+    background-color: lightcoral;
+}
+
+.delete-button:hover {
+    background-color: red;
+}
+
+.move-button {
+    background-color: skyblue;
+}
+
+.move-button:hover {
+    background-color: navy;
+}
+
+input[type="text"] {
+    font-size: 1.6rem;
+    padding: 10px;
+    border: 2px solid slategrey;
+    border-radius: 5px;
+}
+
+ol {
+    padding: 0px;
+}
+
+li {
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 15px;
+    background-color: white;
+    margin-bottom: 10px;
+    border: 3px solid coral;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+} */
+
+/* .text {
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+
+.delete-button {
+    padding: 8px 12px;
+    font-size: 1.4rem;
+    margin-left: 10px;
+}
+
+.move-button {
+    padding: 8px 12px;
+    font-size: 1.4rem;
+    margin-left: 10px;
+} 
+-----------------------------------------------------------------------------*/
+
+/*eighteenth*/
+/* body {
+    background-image: url(assets/lofi2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+.clock-container {
+    width: 50vw;
+    padding: 10px 0px;
+    border: 2px solid coral;
+    border-radius: 12px;
+    margin: 130px auto;
+    backdrop-filter: blur(5px);
+}
+
+.clock {
+    color: white;
+    font-size: 8rem;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 3px 3px 5px rgb(106, 90, 205);
+    text-align: center;
+} 
+-----------------------------------------------------------------------------*/
+
