@@ -1,4 +1,7 @@
 import React from 'react';
+// import UseRef from './UseRef';
+// import ComponentA from './ComponentA';
+// import { UserContext } from './ComponentA';
 // import DigitalClock from './DigitalClock';
 // import WidthHei from './WidthHei';
 // import UseEffect from './UseEffect';
@@ -37,6 +40,7 @@ function App() {
   //   { id: 3, name: 'Cabbage', calories: 105 },
   //   { id: 4, name: 'tomato', calories: 57 },
   // ];
+
 
   return (
     <>
@@ -83,6 +87,10 @@ function App() {
       {/* <WidthHei/> */}
 
       {/* <DigitalClock/> */}
+
+      {/* <ComponentA /> */}
+
+      {/* <UseRef/> */}
     </>
   );
 }
